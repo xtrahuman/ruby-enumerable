@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# myenummerables with ruby
+# my enumerables with ruby
 
 > creating class called mylist and module called myenumerables
 
